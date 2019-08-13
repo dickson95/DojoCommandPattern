@@ -1,2 +1,2 @@
 # DojoCommandPattern
-Ejercicio de command en notificaciones de android.
+Ejemplo con el patrón de diseño command en notificaciones de android.
